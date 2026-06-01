@@ -1,7 +1,7 @@
 /* selector.h
  *
  * Defines a class for managing and selecting input from among a set of input 
- * file descripitors.
+ * file descriptors.
  */
 
 
