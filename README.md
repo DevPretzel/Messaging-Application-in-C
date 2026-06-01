@@ -10,5 +10,7 @@
 
 >message sizes are limited to 128 bytes including newlines
 
+>clang can be changed in Makefile to g++ for Linux compilation
+
 ## Future work
 >encryption, likely using DH key exchange and AES
